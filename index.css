@@ -1,0 +1,36 @@
+body{
+  background-color: #4d4646;
+  position: relative;
+}
+h1
+{
+text-align: center;
+color: #7fcd91;
+font-size: 7rem;
+font-family: 'Pacifico', cursive;
+}
+
+.par1{
+  position: absolute;
+  left: 32%;
+  top: 90%;
+  color: #7fcd91;
+  font-size: 2rem;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+.par2{
+  position: absolute;
+  top: 90%;
+  left: 52%;
+  color: #7fcd91;
+  font-size: 2rem;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+.last{
+  position: absolute;
+  top: 270%;
+  font-size: 2rem;
+  left: 44%;
+}
